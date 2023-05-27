@@ -2,7 +2,6 @@
 - 🔭 I’m currently studing in college.
 - 🌱 Currently learning Java and all the frameworks attached to it.
 - ⚡ Fun fact: U.S. law allowed children to be mailed until 1913.
--->
 ###  My Stats :
 [![GitHub](http://github-readme-streak-stats.herokuapp.com?user=Fl1s&theme=dark&background=000000)](https://git.io/streak-stats)
 
