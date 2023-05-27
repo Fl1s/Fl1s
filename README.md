@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Java and Java and all the frameworks attached to it.
 - ⚡ Fun fact: U.S. law allowed children to be mailed until 1913.
 -->
+###  My Stats :
+[![GitHub](http://github-readme-streak-stats.herokuapp.com?user=Fl1s&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -14,8 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-###  My Stats :
-[![GitHub](http://github-readme-streak-stats.herokuapp.com?user=Fl1s&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
