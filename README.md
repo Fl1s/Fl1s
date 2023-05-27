@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studing in college.
-- 🌱 I’m currently learning Java and Java and all the frameworks attached to it.
+- 🌱 Currently learning Java and all the frameworks attached to it.
 - ⚡ Fun fact: U.S. law allowed children to be mailed until 1913.
 -->
 ###  My Stats :
