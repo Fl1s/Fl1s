@@ -1,11 +1,14 @@
-### Hi there 👋
-- 🔭 I’m currently studing in college.
-- 🌱 Currently learning Java and all the frameworks attached to it.
-- ⚡ Fun fact: U.S. law allowed children to be mailed until 1913.
-###  My Stats :
-[![GitHub](http://github-readme-streak-stats.herokuapp.com?user=Fl1s&theme=dark&background=000000)](https://git.io/streak-stats)
+### 👋Всем здравствуйте!
+### 👨‍💻Немного подробнее обо мне 
+Меня Макс зовут, 16 лет.
 
-### :hammer_and_wrench: Languages and Tools :
+- 🔭 Накануне окончил 9-й класс.
+- 🌱 В данный момент изучаю Java и все прилежащие к ней фреймворки.
+- ⚡ Забавный факт: Законы США разрешали отправлять детей по почте до 1913 года.
+
+Желаю пойти по направлениям Backend developer/ Software Engineer. Активно вкачиваю Soft-скиллы, и Hard-скиллы. Стараюсь быть общительным, если вдруг я бываю не жизнерадостным, значит не выспался. Выбрал это направление не просто так, с детства любил работать с компьютерами и особенно запали в душу сложные головоломки/задачи и подбор к ним неоднозначного решения. А работа программиста сочетает и то, и другое! Фантастика!
+
+### 💻Технологии и языки :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -17,7 +20,23 @@
 </div>
 
 
+### :hammer_and_wrench: Инструменты :
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 
+### 💻 Codewars:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![codewars](https://www.codewars.com/users/Fl1s/badges/large)
 
+### ⚙️ GitHub:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Fl1s&theme=dark&background=000000" alt="future SoftwareEngineer's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="futures SoftwareEngineer's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
