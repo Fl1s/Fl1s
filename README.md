@@ -1,35 +1,28 @@
-### 👋Всем привет!
-### 👨‍💻Немного подробнее обо мне 
-Меня Макс зовут, 16 лет.
+### 😺Fl1s!
+**`A little more about me :`**
+My name is Max, 16 y.o.
 
-- 🔭 Накануне окончил 9-й класс.
-- 🌱 В данный момент изучаю Java и все прилежащие к ней фреймворки.
-- ⚡ Забавный факт: Фронтенд разработку я изучил потому-что не видел разницы между Java и JavaScript когда ещё был совсем зелёным.(P.S:Java выбрал т.к хотел делать моды по майнкрафту)
+I want to go in the areas of Backend developer / Software Engineer. I actively pump in Soft-skills and Hard-skills. I try to be sociable, if suddenly I am out of sorts, it means I didn’t get enough sleep.
 
-Желаю пойти по направлениям Backend developer/ Software Engineer. Активно вкачиваю Soft-скиллы, и Hard-скиллы. Стараюсь быть общительным, если вдруг я бываю не жизнерадостным, значит не выспался. Выбрал это направление не просто так, с детства любил работать с компьютерами и особенно запали в душу сложные головоломки/задачи и подбор к ним неоднозначного решения. А работа программиста сочетает и то, и другое! Фантастика!
-
-### 💻Технологии и языки :
+### 💻Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-
-
-### :hammer_and_wrench: Инструменты :
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+ <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+</div>
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Fl1s/badges/large)
 
 ### ⚙️ GitHub:
-
 <table>
   <tr>
     <td>
