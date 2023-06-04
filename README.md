@@ -1,8 +1,4 @@
-### 😺Fl1s!
-**`A little more about me :`**
-My name is Max, 16 y.o.
-
-I want to go in the areas of Backend developer / Software Engineer. I actively improve in Soft-skills and Hard-skills. I try to be sociable, if suddenly I am out of sorts, it means I didn’t get enough sleep.
+### 😺Hi there, i'm Fl1s!
 
 ### 💻Languages and Tools :
 
