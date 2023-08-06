@@ -1,6 +1,14 @@
-### 😺Hi there, i'm Fl1s!
+# Привет, меня зовут Макс!
+Начинающий бэкенд девелопер🧑‍💻
+🔭 Не работаю
 
-### 💻Languages and Tools :
+🌱 Изучаю много всего, в частности такие технологии и языки как:
+Java, Computer Science, Docker, Kubernetes, SQL, и т.д(много, но преимущество в возрасте)
+
+---
+
+### 💻Языки и тулсы :
+
 
 <div>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -15,7 +23,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
 
-### ⚙️ GitHub stats:
+### ⚙️ GitHub статы:
 <table>
   <tr>
     <td>
