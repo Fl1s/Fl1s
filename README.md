@@ -23,3 +23,5 @@
     </td>
   </tr>
 </table>
+### LeetCode stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Fl1ss?ext=activity)
