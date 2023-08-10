@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fl1s</h1>
-<h3 align="center">Beginner Backend Developer from Russia</h3>
+<h3 align="center">Beginner Backend Developer</h3>
 
 - 🔭 I’m studing on **CodeGym**
   <img align="right" alt="coding" width="400" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="futures SoftwareEngineer's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark" />
+      <img height="180px" align="right" alt="futures SoftwareEngineer's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
