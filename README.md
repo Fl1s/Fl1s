@@ -30,5 +30,6 @@
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- 
+ Gmail   : lajfbot160@gmail.com
+ Discord : fl1s
 </p>
