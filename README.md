@@ -5,7 +5,7 @@
   <img align="right" alt="coding" width="400" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 - 🌱 I’m currently learning **Java**, **Databases**
 
-- ⚡ Fun fact I have **47 childrens** in the basement
+- ⚡ Fun fact - No fun fact :)
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
