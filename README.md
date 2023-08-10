@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>
-      <img height="180px" align="right" alt="futures SoftwareEngineer's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark" />
+      <img height="150px" align="right" alt="futures SoftwareEngineer's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
