@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fl1s</h1>
 <h3 align="center">Beginner Backend Developer</h3>
 
+- 🔭 I’m studing on **CodeGym**
   <img align="right" alt="coding" width="400" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 - 🌱 I’m currently learning **Java**, **Databases**
 
