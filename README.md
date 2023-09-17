@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fl1s</h1>
-<h3 align="center">Beginner Backend Developer</h3>
+<h3 align="center">About Me</h3>
 
-- 🔭 I’m studing on **CodeGym**
+- 🔭 I’m beginner backend developer
   <img align="right" alt="coding" width="400" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 - 🌱 I’m currently learning **Java**, **Databases**
 
@@ -9,6 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="SQL" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Postman" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
