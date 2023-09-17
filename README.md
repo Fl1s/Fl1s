@@ -2,7 +2,7 @@
 <h3 align="center">About Me</h3>
 
 - 🔭 I’m beginner backend developer
-  <img align="right" alt="coding" width="400" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+  <img align="right" alt="coding" width="350" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 - 🌱 I’m currently learning **Java**, **Databases**
 
 - ⚡ Fun fact - No fun fact :)
