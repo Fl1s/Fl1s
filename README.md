@@ -10,13 +10,13 @@
 <div>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="SQL" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
+  <a href="python" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="react" width="40" height="40"/>
   <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" />
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="Postman" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
 <h3 align="left">⚙️ GitHub stats:</h3>
 <table>
