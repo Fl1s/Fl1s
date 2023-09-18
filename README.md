@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fl1s</h1>
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m beginner backend developer
+- 🔭 I’m backend developer
   <img align="right" alt="coding" width="350" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 - 🌱 I’m currently learning **Java**, **Databases**
 
