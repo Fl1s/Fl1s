@@ -5,7 +5,7 @@
   <img align="right" alt="coding" width="350" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 - 🌱 I’m currently learning **Java**, **Databases**
 
-- ⚡ Fun fact - No fun fact :)
+- ⚡ Fun fact - <a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs" class="button">my favorite song</a>  :)
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
