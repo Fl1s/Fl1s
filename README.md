@@ -3,7 +3,7 @@
 
 - 🔭 I’m backend developer
   <img align="right" alt="coding" width="350" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
-- 🌱 I’m currently learning **Java**, **Servlets**
+- 🌱 I’m currently learning **Java EE**, **PostgreSQL**
 
 - ⚡ Fun fact - <a href="https://youtu.be/VMStKtXO4A8?si=wn4H6D8Srol2z8m4" class="button">my favorite song</a>  :)
 <h3 align="left">Languages and Tools:</h3>
