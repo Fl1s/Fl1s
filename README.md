@@ -24,16 +24,6 @@
 <br />
 <br />
 <br />
-<h3 align="left">⚙️ Stats:</h3>
-<table>
-<tr>
-<td>
-<img height="150px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=dark" />
-	<img height="150px" align="right" title="My Leetcode Stats" src="https://leetcard.jacoblin.cool/Fl1ss?theme=dark&font=Cabin%20Condensed" />
-</td>
-</tr>
-</table>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <img align="left" alt="Gmail" width="35px" style="padding-right:1px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />Gmail : commercialfl1s@gmail.com <br />
 <img align="left" alt="Gmail" width="22px" style="padding-right:1px;" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />Discord : fl1s
