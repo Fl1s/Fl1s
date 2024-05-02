@@ -4,8 +4,6 @@
 
 
 ```java
- -*- =] Start -*-
-
 public class JavaDeveloper {
     private String name = "Max";
     private String role = "Backend Developer";
@@ -23,7 +21,6 @@ public class JavaDeveloper {
         fl1s.printHello();
     }
 }
--*- End =[ -*-
 ```
 
 <h3 align="left">Languages and Tools:</h3>
