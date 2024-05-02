@@ -1,5 +1,5 @@
 # Welcome, I'm Fl1s =]
-<img align="right" alt="coding" width="300" height="300" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<img align="right" alt="coding" width="280" height="280" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 <h3 align="left">About Me</h3>
 
 ---
