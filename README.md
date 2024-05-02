@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fl1s</h1>
-<h3 align="center">About Me</h3>
+# Hi 👋, I'm Fl1s
+<h3 align="left">About Me</h3>
 
 ```java
  -*- =] Start -*-
@@ -8,6 +8,7 @@ public class JavaDeveloper {
     private String name = "Max";
     private String role = "Backend Developer";
     private String[] language_spoken = {"English", "Russian"};
+
 
     public static void printHello(){
         System.out.println("Hello traveler! " +
