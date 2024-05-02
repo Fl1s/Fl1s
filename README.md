@@ -24,11 +24,12 @@
 <br />
 <br />
 <br />
-<h3 align="left">⚙️ GitHub stats:</h3>
+<h3 align="left">⚙️ Stats:</h3>
 <table>
 <tr>
 <td>
-<img height="150px" align="right" alt="futures SoftwareEngineer's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=vision-friendly-dark" />
+<img height="150px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fl1s&layout=compact&theme=dark" />
+	<img height="150px" align="right" title="My Leetcode Stats" src="https://leetcard.jacoblin.cool/Fl1ss?theme=dark&font=Cabin%20Condensed" />
 </td>
 </tr>
 </table>
