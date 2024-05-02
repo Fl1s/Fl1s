@@ -29,6 +29,7 @@ public class JavaDeveloper {
 <img align="left" alt="Intellij" width="35px" style="padding-right:10px;" src="https://www.ico.kz/upload/iblock/7b2/c6cxcjabaw0huyc88ku30r86b8qb727e/IntelliJ_IDEA_Icon.svg.png"/>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png"/>
+  <img align="left" alt="SQL" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
   <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" />
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="Postman" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
