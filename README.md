@@ -23,6 +23,7 @@
 </div>
 <br />
 <br />
+<br />
 <h3 align="left">⚙️ GitHub stats:</h3>
 <table>
 <tr>
