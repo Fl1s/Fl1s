@@ -1,27 +1,15 @@
-# Hi 👋, I'm Fl1s
+# Welcome, I'm Fl1s =]
 <h3 align="left">About Me</h3>
   <img align="right" alt="coding" width="320" height="320" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
+---
 
-```java
-public class JavaDeveloper {
-    private String name = "Max";
-    private String role = "Backend Developer";
-    private String[] language_spoken = {"English", "Russian"};
+**My name is Max, and I am a Java developer.** I'm currently in college and I spend a few hours a day learning new technology stacks, as well as some computer science lectures. **Right now I'm learning PostgreSQL, as well as learning the SQL language itself.** Soon I'll be moving on to JDBC, and later I'll be learning HTTP servlets.
+
+---
 
 
-    public static void printHello(){
-        System.out.println("Hello traveler! " +
-                "Be positive, soberly assessing your situation, " +
-                "and you will be happy =]");
-    }
 
-    public static void main(String[] args) {
-        JavaDeveloper fl1s = new JavaDeveloper();
-        fl1s.printHello();
-    }
-}
-```
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
