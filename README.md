@@ -1,5 +1,7 @@
 # Hi 👋, I'm Fl1s
 <h3 align="left">About Me</h3>
+  <img align="right" alt="coding" width="350" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+
 
 ```java
  -*- =] Start -*-
@@ -12,7 +14,8 @@ public class JavaDeveloper {
 
     public static void printHello(){
         System.out.println("Hello traveler! " +
-                "Be positive, soberly assessing your situation, and you will be happy =]");
+                "Be positive, soberly assessing your situation, " +
+                "and you will be happy =]");
     }
 
     public static void main(String[] args) {
