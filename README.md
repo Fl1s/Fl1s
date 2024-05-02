@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm Fl1s</h1>
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m backend developer
-  <img align="right" alt="coding" width="350" height="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
-- 🌱 I’m currently learning **Java EE**, **PostgreSQL**
+```java
+ -*- =] Start -*-
 
-- ⚡ Fun fact - <a href="https://youtu.be/VMStKtXO4A8?si=wn4H6D8Srol2z8m4" class="button">my favorite song</a>  :)
+public class JavaDeveloper {
+    private String name = "Max";
+    private String role = "Backend Developer";
+    private String[] language_spoken = {"English", "Russian"};
+
+    public static void printHello(){
+        System.out.println("Hello traveler! " +
+                "Be positive, soberly assessing your situation, and you will be happy =]");
+    }
+
+    public static void main(String[] args) {
+        JavaDeveloper fl1s = new JavaDeveloper();
+        fl1s.printHello();
+    }
+}
+-*- End =[ -*-
+```
+
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
