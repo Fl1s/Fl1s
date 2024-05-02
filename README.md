@@ -32,7 +32,7 @@ public class JavaDeveloper {
   <img align="left" alt="SQL" width="35px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/>
   <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" />
 <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="left" alt="Postman" width="35px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2048-dsydvxav.png" />
+ <img align="left" alt="Postman" width="35px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/apps-postman-icon-256x256-0jwu1txy.png" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
