@@ -1,6 +1,5 @@
 # Welcome, I'm Fl1s =]
 <img align="right" alt="coding" width="280" height="280" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
-<h3 align="left">About Me</h3>
 
 ---
 **My name is Max, and I am a Java developer.** I'm currently in college and I spend a few hours a day learning new technology stacks, as well as some computer science lectures. **Right now I'm learning PostgreSQL, as well as learning the SQL language itself.** Soon I'll be moving on to JDBC, and later I'll be learning HTTP servlets.
