@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fl1s
 <h3 align="left">About Me</h3>
-  <img align="right" alt="coding" width="330" height="330" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+  <img align="right" alt="coding" width="320" height="320" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 
 ```java
