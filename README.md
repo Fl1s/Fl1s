@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width="280" height="280" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 ---
-**My name is Max, and I'm a Java developer.** Now I'm in college spending several hours a day learning new technology stacks and watching computer science lectures. **Right now I'm learning PostgreSQL, as well as learning the SQL language itself.** Soon I'll be moving on to JDBC, and later I'll be learning HTTP servlets.
+**My name is Max, and I'm a Java developer.** Now I'm in college spending several hours a day learning new technology stacks and watching computer science lectures. **Right now I'm learning JDBC.** Soon I'll be moving on to HTTP servlets, and later I'll be learning Maven.
 
 ---
 
