@@ -6,7 +6,7 @@
 
 > <p>
 >   <i>
->     My name is Max, and I'm a Java developer. Now I'm in college spending several hours a day learning new technology stacks and watching computer science lectures. Right now I'm learning to work with Maven. Soon I'll be moving on to JUnit 5, and later I'll be learning Groovy and Grandle.
+>     My name is Max, and I'm a Java developer. Now I'm in college spending several hours a day learning new technology stacks and watching computer science lectures. Right now I'm learning to work with Maven. Soon I'll be moving on to JUnit 5, and later I'll be learning Hibernate and Spring.
 >   </i>
 > </p>
 
