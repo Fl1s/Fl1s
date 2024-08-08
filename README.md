@@ -18,10 +18,10 @@
 </p>
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=gmail"/> <i> Gmail - commercialfl1s@gmail.com </i> <br/>
-</p>
-<p align="left">
-<img align="left" width="40px" src="https://skillicons.dev/icons?i=discord"/> <i> Discord - fl1s </i> <br/>
+<img align="left" src="https://skillicons.dev/icons?i=gmail,discord"/> 
+    <i> Gmail - commercialfl1s@gmail.com </i>
+    <br/>
+    <i> Discord - fl1s </i>
 </p>
   
 
