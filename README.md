@@ -6,7 +6,7 @@
 
 > <p>
 >   <i>
->     My name is Max, and I'm a Java developer. Now I'm in college spending several hours a day learning new technology stacks and watching computer science lectures. Right now I'm learning to work with Spring. Soon I'll be moving on to Docker and Kubernetes, and later I'll be learning Kafka.
+>     My name is Max, and I'm a Java developer. Now I'm in college spending several hours a day learning new technology stacks and watching computer science lectures. Right now I'm working with Spring. Soon I'll be moving on to Docker and Kubernetes, and later I'll be learning Kafka.
 >   </i>
 > </p>
 
