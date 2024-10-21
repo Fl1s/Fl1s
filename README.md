@@ -14,8 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,hibernate,spring,bash,arch,docker,git" />
-    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,hibernate,spring,bash,arch" />
+    <img src="https://skillicons.dev/icons?i=docker,git,postman" />
 </p>
 <h3 align="left">Contacts:</h3>
 <p align="left">
