@@ -1,11 +1,12 @@
 # Welcome, I'm Fl1s =]
+<img align="right" alt="coding" width="400" height="280" src="https://media1.tenor.com/m/gxeUuK1gvV4AAAAC/dessi-dessi-allison.gif">
 
 
 <hr>
 
 > <p>
 >   <i>
->     My name is Max, and I'm a Java developer. Now I'm in college spending several hours a day learning new technology stacks and watching computer science lectures. Right now I'm working with Spring. Soon I'll be moving on to Docker and Kubernetes, and later I'll be learning Kafka.
+>     My name is Max, and I am a Java developer. I'm currently in college and spend several hours a day learning new technology stacks or working on my own projects. Now I'm learning Docker. Soon I will move on to Kubernetes and later I will the wisdom of Kafka.
 >   </i>
 > </p>
 
