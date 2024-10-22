@@ -1,5 +1,4 @@
 # Welcome, I'm Fl1s =]
-<img align="right" alt="coding" width="280" height="280" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 
 <hr>
