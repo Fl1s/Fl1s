@@ -1,7 +1,4 @@
 # Welcome, I'm Fl1s =]
-<img align="right" alt="coding" width="280" height="280" src="https://media1.tenor.com/m/gxeUuK1gvV4AAAAC/dessi-dessi-allison.gif">
-
-
 <hr>
 
 > <p>
