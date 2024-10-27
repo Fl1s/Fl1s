@@ -23,5 +23,3 @@
 </p>
 </div>
 <h3 align="left">Badges:</h3>
-
-[![Badges](https://holopin.me/fl1s)](https://holopin.io/@fl1s)
