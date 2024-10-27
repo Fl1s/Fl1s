@@ -22,4 +22,3 @@
     <i> Discord - fl1s </i>
 </p>
 </div>
-<h3 align="left">Badges:</h3>
