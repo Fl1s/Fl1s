@@ -14,6 +14,10 @@
     <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,hibernate,spring,bash" />
     <img src="https://skillicons.dev/icons?i=docker,git,postman" />
 </p>
+
+<h3 align="left">Badges:</h3>
+<img src="https://holopin.me/fl1s" width="800" height="250" />
+
 <h3 align="left">Contacts:</h3>
 <p align="left">
 <img align="left" src="https://skillicons.dev/icons?i=gmail,discord"/> 
@@ -22,5 +26,3 @@
     <i> Discord - fl1s </i>
 </p>
 </div>
-<h3 align="left">Badges:</h3>
-<img src="https://holopin.me/fl1s" width="800" height="250" />
