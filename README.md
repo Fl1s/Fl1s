@@ -22,3 +22,5 @@
     <i> Discord - fl1s </i>
 </p>
 </div>
+<h3 align="left">Badges:</h3>
+<img src="https://holopin.me/fl1s" width="800" height="250" />
