@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Badges:</h3>
-<img src="https://holopin.me/fl1s" width="800" height="250" />
+<img src="https://holopin.me/fl1s" width="600" height="200" />
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
