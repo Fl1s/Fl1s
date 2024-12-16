@@ -11,8 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,hibernate,spring,bash" />
-    <img src="https://skillicons.dev/icons?i=docker,k8s,git,postman" />
+    <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,hibernate,spring,bash,docker,k8s,git,postman" />
 </p>
 
 <h3 align="left">Badges:</h3>
