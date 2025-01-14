@@ -3,7 +3,7 @@
 
 > <p>
 >   <i>
->     My name is Max, and I am a Java developer. I'm currently in college and spend several hours a day learning new technology stacks or working on my own projects. Now I'm learning Jenkins Soon I will move on to Kafka, and later I'll be honing my skills on pet projects.
+>     My name is Max, and I am a Java developer. I'm currently in college and spend several hours a day learning new technology stacks. Now I'm working with microservices, soon I'll be honing my skills on pet projects =]
 >   </i>
 > </p>
 
