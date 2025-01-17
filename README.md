@@ -14,9 +14,6 @@
     <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,mongodb,hibernate,spring,bash,jenkins,docker,k8s,git,postman," />
 </p>
 
-<h3 align="left">Badges:</h3>
-<img src="https://holopin.me/fl1s" width="600" height="200" />
-
 <h3 align="left">Contacts:</h3>
 <p align="left">
 <img align="left" src="https://skillicons.dev/icons?i=gmail,discord"/> 
