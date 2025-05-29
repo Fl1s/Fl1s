@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,mongodb,hibernate,spring,redis,bash" />
-    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,grafana,prometheus,kafka,git,postman" />
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,aws,grafana,prometheus,kafka,git,postman" />
 </p>
 
 <h3 align="left">Contacts:</h3>
